@@ -1,2 +1,2 @@
 # Memory-Game
-A simple match 2 memory game
+A simple color matching memory game.
